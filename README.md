@@ -4,6 +4,8 @@
 # 效果
 https://wdh99.github.io/site/让你的windows应用窗口变透明/
 
+# 第三方库安装
+`pip install pywin32`
 
 # 打赏,赞助
 <div style="display: grid; grid-gap: 10px;">
