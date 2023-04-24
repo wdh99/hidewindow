@@ -2,7 +2,7 @@
 一个能将窗口变透明的工具
 
 # 效果
-https://wdh99.github.io/site/让你的windows应用窗口变透明/
+https://wdh99.github.io/site/A应用-工具/让你的windows应用窗口变透明/
 
 # 第三方库安装
 `pip install pywin32`
